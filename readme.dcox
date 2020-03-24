@@ -3,7 +3,7 @@ March 2020
 Tuesday Project Plan
 
 Project Overview
-I am creating a project that is a store with items that are for sell.  You can put your items for sell with the name of the item, a description of the item, and the price for the item.  You will be able to delete and add items.  The “cart” will be able to add all the items and give you the total price.
+I am creating a project that is a store with items that are for sale.  You can put your items for sale with the name of the item, a description of the item, and the price for the item.  You will be able to delete and add items.  The “cart” will be able to add all the items and give you the total price.
 
 Technical summary
 	C#
